@@ -1,0 +1,10 @@
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\bin\Debug\MyProject.exe.config
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\bin\Debug\MyProjectDB.mdf
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\bin\Debug\MyProjectDB_log.ldf
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\bin\Debug\MyProject.exe
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\bin\Debug\MyProject.pdb
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debug\MyProject.exe
+c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debug\MyProject.pdb
