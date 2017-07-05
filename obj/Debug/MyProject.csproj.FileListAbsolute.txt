@@ -8,3 +8,9 @@ c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debu
 c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
 c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debug\MyProject.exe
 c:\users\рамирос\documents\visual studio 2015\Projects\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Рамирос\Documents\Visual Studio 2015\Projects\MyProject\Project4\bin\Debug\MyProject.exe.config
+C:\Users\Рамирос\Documents\Visual Studio 2015\Projects\MyProject\Project4\obj\Debug\MyProject.exe
+C:\Users\Рамирос\Documents\Visual Studio 2015\Projects\MyProject\Project4\obj\Debug\MyProject.pdb
+C:\Users\Рамирос\Documents\Visual Studio 2015\Projects\Project4\bin\Debug\MyProject.exe.config
+C:\Users\Рамирос\Documents\Visual Studio 2015\Projects\Project4\obj\Debug\MyProject.exe
+C:\Users\Рамирос\Documents\Visual Studio 2015\Projects\Project4\obj\Debug\MyProject.pdb
